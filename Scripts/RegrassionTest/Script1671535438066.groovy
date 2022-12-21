@@ -28,3 +28,7 @@ WebUI.callTestCase(findTestCase('tc_MerchantPayment/p_TransactionWithValidMercha
 'SendMoney'
 WebUI.callTestCase(findTestCase('tc_SendMoney/p_sendMoneyToValidUser'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
+WebUI.callTestCase(findTestCase('tc_fundTransfer/p_fundTransferWithValidAccount'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('PageModel/basic/tc_logOut'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+
