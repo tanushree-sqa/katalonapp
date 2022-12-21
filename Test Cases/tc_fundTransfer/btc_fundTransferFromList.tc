@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>btc_fundTransferFromList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33f05a11-50d7-499e-8136-068e92f82410</testCaseGuid>
+</TestCaseEntity>

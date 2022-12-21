@@ -1,0 +1,48 @@
+{
+  "keywordFileContentHash": "77F4E02C2CAFCC74EAAE49CCD0AB2B8E",
+  "keywordClasses": [
+    {
+      "name": "tap.inputPin",
+      "keywordMethods": [
+        {
+          "name": "isElementPresent_Mobile",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "timeout",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "getCurrentSessionMobileDriver",
+          "parameters": [],
+          "javadoc": "/**\n\t * Get mobile driver for current session\n\t * @return mobile driver for current session\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

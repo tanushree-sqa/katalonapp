@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>p_TransactionWithValidMerchant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8eaddbd0-3d6f-41f1-9015-e00e8cf9f633</testCaseGuid>
+</TestCaseEntity>

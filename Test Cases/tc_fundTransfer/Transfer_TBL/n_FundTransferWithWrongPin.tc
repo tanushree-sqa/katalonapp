@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>n_FundTransferWithWrongPin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a13a3537-d371-4128-9919-3f5a42a22739</testCaseGuid>
+</TestCaseEntity>

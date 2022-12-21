@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>p_fundTransferWithValidAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb331fe9-7a3a-4de8-aa4c-c2d3e49c9b63</testCaseGuid>
+</TestCaseEntity>

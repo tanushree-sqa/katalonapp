@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>Android Mobile Tests with Katalon Studio</name>
+   <name>tap</name>
    <tag></tag>
-   <UUID>1388abf0-8bae-4cd9-8586-5f3d094596aa</UUID>
-   <migratedVersion>5.4.0</migratedVersion>
+   <UUID>f758fdff-3eae-438d-9a62-ba136e7d4619</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\tanushree\Katalon Studio\tap\Android Mobile Tests with Katalon Studio.prj</projectFileLocation>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
+   <type>MOBILE</type>
 </Project>

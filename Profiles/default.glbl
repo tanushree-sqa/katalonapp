@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>10</initValue>
+      <initValue>5</initValue>
       <name>G_Timeout</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -21,7 +21,37 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>5</initValue>
+      <initValue>2</initValue>
       <name>G_ShortTimeOut</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'com.tad.bdkepler'</initValue>
+      <name>PackageIdTap</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'8801964575962'</initValue>
+      <name>UserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1234'</initValue>
+      <name>Pin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'01688931808'</initValue>
+      <name>ValidUser</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'01729069555'</initValue>
+      <name>Merchant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'01301804352'</initValue>
+      <name>Agent</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

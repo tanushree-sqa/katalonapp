@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>btc_sendMoney</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb6102bd-7a85-4ab4-9033-d3729167885d</testCaseGuid>
+</TestCaseEntity>

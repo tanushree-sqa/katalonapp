@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>n_sendMoneyWithWrongPin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c84f938c-30d8-4290-9e50-eb68069be2e0</testCaseGuid>
+</TestCaseEntity>
